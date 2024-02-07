@@ -35,7 +35,7 @@ I'm a passionate Fullstack Web Developer from Lahore, Pakistan.
 
 <a href="https://github.com/Affaq-Ahmed">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Affaq-Ahmed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Affaq-Ahmed&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Affaq-Ahmed&layout=compact&langs_count=9&theme=algolia&count_private=true&hide=java"/>
 </a>
 
 <br/>
