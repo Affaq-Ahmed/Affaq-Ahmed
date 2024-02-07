@@ -1,4 +1,4 @@
-Hi there, I'm Affaq 👋
+👋 &nbsp;Hey there! I'm Affaq
 
 I'm a passionate Fullstack Web Developer from Lahore, Pakistan.
 
@@ -33,9 +33,9 @@ I'm a passionate Fullstack Web Developer from Lahore, Pakistan.
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Affaq-Ahmed&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affaq-Ahmed&theme=buefy&layout=compact" />
+<a href="https://github.com/Affaq-Ahmed">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Affaq-Ahmed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Affaq-Ahmed&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
 
 <br/>
