@@ -5,7 +5,8 @@ I'm a passionate Fullstack Web Developer from Lahore, Pakistan.
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 - Exploring new technologies and developing software solutions and quick hacks
-- 💻 - Software Engineer at Tintash — July 2022 to Present
+- 💻 - Software Engineer (MERN) at ZySoftec — April 2024 to Present
+- 💻 - Software Engineer at Tintash — July 2022 to April 2024
 - 🎓 - BS(CS) from FAST-NUCES, Lahore — August 2018 to July 2022
 - 💻 - iOS Developer at Taps'N'Clicks — Summers of 2021
 - 🧭 - Got first paid project — September 2019
